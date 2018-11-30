@@ -1,0 +1,325 @@
+Glossary
+Definitions of TopicQuests/GetTheIssues terms.
+NOTE: Some of the terms below were proposed in context of the Get The Issues project
+
+
+Arena
+Arena Tree
+Augmented Social Network (ASN)
+Authentication
+Avatar
+Backchannel
+Condo
+Conversation
+Conversation Widget
+Currency System
+Decision Making
+Devil’s Advocate
+Evidence Field
+Federation
+Federation Entity
+Federation Processes
+Financial Models
+Game Move
+Game Tree
+Game Tree Node
+Gamification (levels, leadership board, points, rewards, etc.)
+Game Mechanics
+Game-Based Learning
+Get The Issues (GTI)
+Guild
+Guild Craft
+Guild Drama
+Guild Game Move
+Guild House
+Guild Leaders
+Guild Members
+Guild Owner
+Guild Reputation
+Guild Tree
+Game Points
+Handle
+Incubator Space
+Identity
+Identi-me
+Inquisitor
+K-Hub
+Knowi
+Knowing Garden
+Knowledge Garden
+Leeroy Jenkins
+Levels
+Long Transclusion
+Lone Wolf
+MMORPG
+MVP
+Narrative
+Node
+Participant
+Participant Reputation
+Passport
+Peace Elf
+Perspective
+Perspective Engine
+Persona
+Play
+Qualifier
+Quest
+Quest Node
+Registration aka: Sign Up
+Reputation
+Reputation (Martin’s Version)
+Reputation Economy
+Research Rabbit
+Roles
+Role-Playing Game (RPG)
+Rules of Moderation
+Sensemaking
+Single Signon
+Skeptic
+Social Bookmark
+Store of Value (econ/finance)
+Theory U
+Topic
+Topic-Centric
+Topic Map
+Transclusion
+Trustworthiness
+Useful
+Value
+ValueMatrix
+Zerging (aka Hackathons)
+
+Arena: A public space where guilds publish their individual Guild Tree to the greater Arena Tree, and allows for public deliberations and debates about various perspectives regarding a single Quest. In other words, the Arena is the space that publicizes the findings of all Guild Trees into a single Arena Tree for further public deliberation and debate. Only Guild members who participated in the quest can further make more game moves within their individual Guild Tree to contribute to the greater Arena Tree. The Arena contains 2 sections: Time-Boxed Story vs. Evolving Story.
+Arena Tree
+
+Augmented Social Network (ASN):Building identity and trust into the next-generation Internet; this topic is raised here since the linked paper is descriptive of many of the issues raised in this glossary
+
+Authentication: One of the prime aspects of Trust is cryptographically strong authentication (ASN). In TopicQuests, an individual gets a Passport by way of cryptographically strong authentication, typically with a valid email address for login identity. The system (TopicQuests Federation and any Condo) must be able to hold individuals accountable. But, once authenticated, any individual is free to be known by some pseudonym (handle), which grants a level of anonymity to that individual.
+Authentication is Condo-specific. This means that a user with a Passport has Registered (Signed up) for a particular Condo (K-Hub).
+
+Avatar: Visible representation of TQ member’s identity with a given context (such as a guild). Could be as simple as a name (handle), or as complex as a 3D Second Life or World of Warcraft avatar.
+
+Backchannel: A kind of communication channel which exists to support but which is not part of game play, the generation of Game Moves.  Some backchannels can be entirely private, as when two participants make private chat-room connections with each other. Some can be more public, as in a chat room associated with a Guild.
+
+Condo: Deprecated.A topic-specific knowledge garden; a community where knowledge work occurs.
+Suggested alternative vocabulary: Portal, Knowi
+
+Conversation:  A process by which an agent(s) develops a topic, specifically by putting it in different contexts and seeing how it interacts what its "surroundings." (Ref. Email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+Conversation Widget
+
+Currency System
+
+Decision Making
+
+Devil’s Advocate: One of many roles that a TQ member can take on when participating in a TQ Quest; a guild member who attempts to find holes in arguments; contrarian; gutter snype. See Roles.
+
+Evidence Field: In GTI context, the evidence field is the database of evidence collected and cultivated by guild members, which can be harvested to support perspectives on issues created, maintained, and published as part of quests on issues.
+
+Federation: Federation is the process in which work products of TQ communities are collected and organized. The term exists in two senses: 1) The collective entity; 2) The processes by which an entity is federated.
+
+Federation Entity: A kind of central focus of attention (aka: attractor basin) for knowledge gardening activities.
+
+Federation Processes: Processes which bring together, without bias, information resources created during knowledge gardening activities, which include RPGs and related sensemaking activities, and knowledge gathering through, for instance, Social Bookmarks.
+
+Financial Models
+
+Game Move
+1) Guild Game Move, 2) Individual Game Move.
+<TODO> This term needs to be augmented; the term “raid” used in WoW isolates a game move from the general term “game”. Raid is not a good word. We need to spend time on the notion of “game move”</TODO>
+<JP>I see a game move as that specific activity inside a guild which takes that guild’s game tree and places it out in the public game tree associated with a specific quest</JP>
+
+Game Tree: A rooted tree structure, where root is a Quest’s opening Question. Each Game Tree Node is then based on a specific intention: 
+To ask a question
+To answer a question
+To offer evidence for a question
+To challenge (debate) an answer
+To challenge (debate) an evidence node
+
+Game Tree Node: See Node.
+
+Gamification (levels, leadership board, points, rewards, etc.)
+
+Game Mechanics
+
+Game-Based Learning
+Get The Issues (GTI)
+(MS): Get The Issues (GTI) is a web-based application that helps groups build omni-partisan cultivated evidence fields and perspectives about issues. 
+(JP): GTI is about the left-hand side of the U in Theory U: evolving as complete a view as possible in relation to issues before Decision Making.
+
+Guild: An abstract concept which serves to unite members who share similar interests can gather. Guilds are populated with Guild Members, some of which are Guild Leaders, and others who play Roles.
+
+Guild Craft: The term Guild Craft is taken here to refer to the art and science of performing in the context of a Guild. The term entails all Roles engaged in any particular guild. While there is a large literature on guilds, guild management, and guild craft in general, we see the entire knowledge garden as an opportunity to make Guild Craft its own kind of Quest.  It is reasonable to imagine some form of additional game points granted to those guilds which expose their internal processes for debate and questing. The art and science of Guild Craft is one of many grand challenges and opportunities facing the knowledge garden.
+
+Guild Drama: An aspect of guild dynamics.
+
+Guild Game Move: Guild game move, in the context of a TopicQuests RPG, is the aggregate action of a Guild, where a Game Tree fragment created within the Guild is made public, appended to the Quest’s Game Tree.
+
+Guild House: Condo-specific environment for guild activities. Can include cool tools and widgets, both off the shelf and created by the guild, for dealing with the issues on which the guild is conducting quests. Guilds are imagined to exist in two varieties:
+Open Guild House - Anyone is free to join.
+Closed Guild House - The Guild Leader invites new members.
+
+Guild Leaders: Guild leadership can take many forms, the two poles being a single leader, the guild’s owner; and a leadership council composed of several leaders each nominated by present guild leadership.
+
+There is an intention to facilitate freedom of choice, opportunities with guilds to evolve Guild Craft.
+
+Guild Members
+
+Guild Owner: A Guild Owner is the authenticated Condo member who creates a Guild. There will be requirements placed on members, a kind of leveling up to demonstrate guild leadership capabilities. By definition, a Guild Owner is that guild’s leader. A guild leader can nominate other guild leaders from the guild’s membership.
+
+Guild Reputation: See Reputation (Martin’s Version)
+
+Guild Tree
+
+Game Points
+
+Handle: A pseudonym chosen by an authenticated individual. Two important aspects of the handle: 1) It must be unique across the federation; 2) It must be consistent; a user cannot change handles during game play. Open Issue: Can any individual have more than one handle?
+One aspect of a handle is that it can become a brand, one which the individual builds through accumulated Reputation.
+
+Incubator Space: A work space within the Guild page (represented by two tool functions: the Guild Tree and the Narrative Builder), for initiating arguments, making inferences, finding corollaries, collecting evidence, refuting claims (as a way to find “weak spots” in the argument), and evaluating the sufficiency and validity of the arguments presented.  All ideas and evidence generated within the Incubator Space are in private view for the Guild members only. Once the guild finishes collecting information for the quest, the Guild Leader can press the “Run the Play” button that will publish the entire Guild Tree to the greater, Arena Tree.
+
+Identity: In the case of TopicQuests, there are two (maybe others?) levels of identity: 1) The individual’s identity based on cryptographically strong authentication; 2) The individual’s identity based on the handle/avatar chosen, and the Reputation build through participation. See Augmented Social Network (ASN). 
+
+Identi-me: A knowledge garden whose topic is “me,” and which is entirely under my control. It tracks and maps my activities and mediates my interactions with guilds I belong to and with the net in general.  Closely related to user-centric identity and to “personal cloud.”
+
+Inquisitor: One of many roles that a TQ member can take on when participating in a TQ Quest; a guild member who poses questions to clarify definitions, issues, and thought processes as a TQ Quest progresses; a guild member who serves as the philosopher. See Roles.
+
+K-Hub: Our newly adopted name (formerly known as Condo).  Short for Knowledge Hub. In general, there is a philosophical bent behind K-Hubs: like topic maps, they are topic-centric.
+
+Knowi: (pronounced know-ee) An autonomous topic-oriented knowing garden (formerly called “Condo”).
+
+Knowing Garden: An intentional knowledge ecology cultivated by humans and software agents. Emphasis is on the activities and processes as sustained by the garden itself.
+
+Knowledge Garden: A cultivated knowledge repository by humans, augmented with software. The garden is comprised of these components: 1) Federation; 2) Condos.
+
+Leeroy Jenkins: A guild member who makes a game move that disrupts the processes of TQ Quest; a troll (we discourage guild members from taking on this role). See Roles.
+
+Levels
+
+Long Transclusion: We define long transclusion as transclusion from other servers; the idea is based on the notion that a document transcluded from one server can generate an appropriate view at another server.  In a sense, this calls for the equivalent of single signon in a knowledge garden context, since a Transclude button (control) might be visible only to authenticated users.
+
+Lone Wolf: One of many roles that a TQ member can take on when participating in a TQ Quest; a TQ member who prefers to create personal TQ Quests, rather than participate in Guild-Based TQ Quests; a ronin. See Roles.
+
+MMORPG
+
+MVP: An acronym that stands for “Minimum Viable Product.”
+
+Narrative: 1) Guild Narrative; 2) Personal Narrative
+
+Node: An identifiable (and addressable) information or knowledge item. Often used in context of “map”. Closely related: AIR - Addressable Information Resource.
+Participant
+
+Participant Reputation: See Reputation (Martin’s Version)
+
+Passport: A term we coined to serve the need to create a user-fee-based Federation. In the knowledge garden, the two prime entities are Condos, the communities where knowledge work occurs, and the Federation, where the work products of all such communities are collected and organized. The financial models in play suggest that the Federation must be financially sustainable; a “passport” is a way to engage Condo members with the Federation through a user fee associated with the Passport itself.
+A passport is associated with one and only one individual; it is associated with that individual’s authentication in the Federation. Note that authentication takes place at a Condo. There will likely be many kinds of passports, including but not limited to:
+Free by way of scholarship
+Free with participation limited to browsing only
+Free by way of “trial period”
+Not free under several candidate use cases:
+Group-paid, as in whole classrooms
+Group-paid, as in Condos which, for their own reasons, choose to sponsor participants
+Individual paid, which could come under varieties of situations:
+Month-to-month
+Annual
+Bulk years--e.g. 5-year pass
+Lifetime
+
+Peace Elf: One of many roles that a TQ member can take on when participating in a TQ Quest; a guild member who attempts to establish common ground between opposing views; common ground is the point of agreement from which arguments are built. See Roles.
+
+Perspective: A Perspective is a collection of claims about an issue organized and presented from a particular point of view, and the evidence that supports those claims. 
+The claims typically support a specific view/perception about the Issue.
+Perspectives are similar to op-ed articles that you might find in a newspaper’s opinion section
+
+Perspective Engine
+
+Persona
+
+Play: The final move that the guild leader makes, on behalf of the entire guild, to contribute to the greater TQ Tree (Arena); Play is the “button” that only the guild leader can press. 
+The Play Button invokes Rules of Moderation.
+
+Qualifier: One of many roles that a TQ member can take on when participating in a TQ Quest; a guild member who performs quality control on the guild maps by evaluating nodes and evidence. See Roles.
+
+Quest: A timeboxed engagement by a guild with an issue, focused through a (root) question about the issue. A well defined question will provide a series of conditions/circumstances that provide the context for evaluating the application of topics to an engagement. ((Ref. Email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+“A quest is a journey toward a specific mission or a goal.” - Wikipedia
+An issue that needs to be explored through questions, arguments, evidence, refutation, and so forth. TQ Members can join a Guild to become a Guild Member, and participate in a Quest to better understand the issue at hand.
+
+Quest Node - A topic that is contains the relevant conditions by which all other topics played in the underlying quest will be evaluated via the ValueMatrices (Ref. Email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+Registration aka: Sign Up
+To gain access as an authenticated user to a given Condo, users with a Passport first Register (Sign Up) with that Condo.  They are then free to Authenticate with that Condo.
+
+Reputation: Reputation is generally taken to mean some numeric representation based on a person’s contributions to any Condo. But, a single representation is likely insufficient since, as an extreme example, a person is extremely rude in their conduct, but at the same time, contributes valuable nodes for, say, evidence fields. We need multiple dimensions to evaluate contributions. For the sake of conversation, let us consider two obvious dimensions, though we are not limited to these:
+Contributions - Point scores achieved through contributions to the entire garden, both in game play, social bookmarking, and other activities
+Credibility - (Helpfulness?) Social Skills - Point scores associated with social skills, where we are talking here about a variety of skills, and perhaps each of these is its own dimension:
+Nature of argumentation engaged
+Nature of prose chosen (e.g. deficit discourse vs appreciative inquiry)
+
+Reputation (Martin’s Version): The Reputation Score is a value within in the range of -1 to +1, as follows:
+-1 Not trustworthy at all. Avoid. Trust nothing from this entity. 
+
+ 0 Don’t know this person. Don’t know anything about this person. This is the default.
+
++1 Trustworthy. Has never violated my trust in the X time that I’ve known them. In fact, has pointed out things that helped me that I didn’t see coming.
+
+Participants and Guilds both have Reputation Scores:
+When a Guild’s Reputation Score goes up or down, so does the Individual Reputation Score for each Guild Member.
+When a Participant’s Reputation Score goes up or down, so does the Reputation Score for each Guild that they belong to.
+
+Reputation scoring metrics include (these should be augmented/refined):
+Behavior
+Bad (points decrease): Bad behavior can cause termination of the Subscriber’s ability to participate in the TQ system.
+Trolling
+Doxxing
+Doing anything illegal
+Good: (points increase): 
+Not exhibiting Bad Behavior while participating in Quests over consistently longer periods of time.
+Credibility
+Bad (points decrease): 
+Knowingly using debunked evidence to support claims.
+Nature of prose chosen (e.g. deficit discourse vs appreciative inquiry)
+Good (points increase): 
+Not exhibiting Bad Credibility while participating in Quests over consistently longer periods of time.
+
+Reputation Economy: Mostly post-capitalism speak, but also indicative of Reputation-Based Economies within the knowledge garden. Consider also: Blockchain Reputation Economy
+
+Research Rabbit: One of many roles that a TQ member can take on when participating in a TQ Quest; a guild member who collects evidence for the quest by means of social bookmarks. See Roles.
+
+Roles: When participating in a TQ Quest, a guild member can choose to take on a role that determines the way he/she can participate in the quest. Many roles are available for participating in a TQ Quest; . See Devil’s Advocate, Inquisitor, Lone Wolf, Leeroy Jenkins, Skeptic, Peace Elf, Qualifier, Research Rabbit.
+
+Role-Playing Game (RPG): An RPG is one of several approaches to sensemaking in the TopicQuests universe. An RPG is based on a Quest, played by members (Avatars) of Guilds.
+
+Rules of Moderation: Rules intended to promote and require civil discourse.
+
+Sensemaking
+
+Single Signon: The idea that once authenticated in a system, the Knowledge Garden, that authentication serves at other member portals in the garden.
+
+Skeptic: One of many roles that a TQ member can take on when participating in a TQ Quest; a guild member who requests for overwhelming evidence to be convinced of an argument. See Roles.
+
+Social Bookmark
+
+Store of Value (econ/financial)- Anything with value that may be stored and retrieved at a later date with the expectation that it will still have value. A topic is a store of value. (Ref. email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+Theory U: A leadership and social change practice following a pattern of co-sensing, presencing, and co-creating (mapped to left, bottom, and right side of the letter U). Relevant to surfacing how framings are held, loosened, and created. See Summary.
+
+Topic - Or subject, [which] is a digital representation of an entity. Contains all information related to that topic including, but not limited to, its contents, it authorship, and its ValueMatrix. (Ref. email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+Topic-Centric: A topic map is said to be topic-centric. That is, there is a focus on a single subject, which can be anything capable of being thought about, spoken, or otherwise uttered.
+
+Topic Map: A topic map is a kind of container for a collection of objects which represent subjects. A topic map is like a road map in the sense that there will be one and only one location in the map for any particular subject, and subjects can be connected by other topics which represent relations between two topics.
+
+Transclusion: In computer science, transclusion is the inclusion of a document or part of a document into another document by reference. The original stays where it is, but views are generated by reference to the original document.  In general, this applies to same server documents. See Long Transclusion.
+
+Trustworthiness: “Trustworthiness” is a characteristic of reputation. When you first meet someone you have no idea if they are trustworthy or not. Over time, you get a chance to judge whether they are trustworthy or not from their behavior, and from whether what they tell us turns out to be accurate or not. We are trying to mimic that approach with the GTI/TQ software. 
+
+Usefulness - serviceable for an end or purpose. (Merriam-Webster). The end or purpose, within the garden, is defined contextually via the terms established in a quest node. (Ref. Email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+Value - The result acquired when a series of conditions is fed into a ValueMatrix for a topic. Often, but not necessarily, expressed numerically - although some scenarios could allow for expression through another character.
+(Ref. Email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+ValueMatrix - A JSON Blob that organizes all of the activity in which the underlying topic has been a part (e.g. things its cited, citations to it, peer reviews, the processes in which it has been an element, etc). (Ref. Email chain (9/1/18 - [Quest] What is a quanta of information in the garden?))
+
+Zerging (aka Hackathons): All-out drive for a particular objective by the entire group.  All-nighters to achieve an objective by a certain time-frame. This activity is conducive to maintaining quest momentum.
+
